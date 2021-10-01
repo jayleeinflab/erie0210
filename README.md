@@ -1,4 +1,4 @@
-### ABC 프로젝트 기술 깃헙입니다.
+### ABC Project github
 
 ✏프로젝트와 관련 기술 글은 다음 링크에서 확인하세요. </br>
 [ABC 프로젝트 기술 블로그](https://abc-project-tech.tistory.com/)
