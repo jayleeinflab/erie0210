@@ -1,8 +1,3 @@
-### ABC Project github
-
-✏프로젝트와 관련 기술 글은 다음 링크에서 확인하세요. </br>
-[ABC 프로젝트 기술 블로그](https://abc-project-tech.tistory.com/)
-
 ✏You can find contents about this project in the link below. </br>
 [Medium Blog for ABC project](https://medium.com/me/stories/drafts)
 
