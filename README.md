@@ -1,5 +1,5 @@
 ✏You can find contents about this project in the link below. </br>
-[Medium Blog for ABC project](https://medium.com/me/stories/drafts)
+[Medium Blog](https://medium.com/me/stories/drafts)
 
 
 
